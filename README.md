@@ -2,9 +2,9 @@
 
 # Hey, I'm PetrMys 👋
 
-**Tech Enthusiast · AI & Companions Explorer · FiveM & Community Projects**
+**Technology Enthusiast · AI & Companions Explorer · Creator of Community Worlds**
 
-*Exploring AI companions, building retro-flavored roleplay worlds, and experimenting with modern tech.*
+*Exploring the future of AI companions, crafting immersive 90s roleplay worlds, and turning ideas into living projects.*
 
 [![Website - dfrp.cz](https://img.shields.io/badge/Definitive_RP-dfrp.cz-EC4899?style=for-the-badge&logo=fivem&logoColor=white)](https://dfrp.cz)
 [![Website - companionsfan.cz](https://img.shields.io/badge/Companions_Fan-companionsfan.cz-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white)](https://companionsfan.cz)
@@ -16,9 +16,9 @@
 
 ### ✨ About Me / O mně
 
-**EN:** I'm a technology enthusiast from the Czech Republic passionate about **AI & AI Companions**, **FiveM roleplay projects**, and **modern community web portals**. I enjoy experimenting with new technologies, interactive gaming worlds, and practical tools.
+**EN:** I'm a **technology enthusiast** from the Czech Republic fascinated by how **artificial intelligence**, **AI companions**, and **interactive virtual worlds** are evolving. Whether I'm building a retro 1990s FiveM roleplay universe at **[Definitive RP](https://dfrp.cz)** or curating a multilingual community & knowledge base around AI companions at **[Companions Fan](https://companionsfan.cz)**, I love experimenting with new tech and turning ideas into projects people enjoy using.
 
-**CZ:** Technologický nadšenec z Česka se zájmem o **AI a AI společníky (companions)**, **FiveM projekty** a **moderní komunitní weby**. Baví mě zkoušet nové technologie, tvořit herní světy a propojovat zajímavé nápady do praxe.
+**CZ:** Jsem **technologický nadšenec** z Česka, kterého fascinuje svět **umělé inteligence**, **AI společníků (companions)** a **interaktivních herních světů**. Ať už jde o budování devadesátkového FiveM roleplay světa **[Definitive RP](https://dfrp.cz)**, nebo vícejazyčný komunitní portál o AI společnících a holografických technologiích **[Companions Fan](https://companionsfan.cz)**, baví mě zkoušet nové věci v praxi a tvořit projekty, které žijí komunitou.
 
 ---
 
@@ -44,9 +44,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-- 🤖 **AI & Companions** — exploring conversational AI, companion ecosystems, and interactive hardware/platforms
-- 🎮 **FiveM & Gaming Worlds** — custom RP mechanics, retro 90s systems, and community infrastructure
-- 🌐 **Web & Community Portals** — dark-mode portals, wikis, and multilingual community hubs
+- 🤖 **AI & Companions** — exploring conversational AI, companion ecosystems, and interactive 3D/hologram hardware
+- 🎮 **FiveM & Virtual Worlds** — custom 90s RP mechanics, immersion systems, and community infrastructure
+- 🌐 **Web & Community Hubs** — modern dark-mode portals, wikis, and multilingual platforms
 
 ---
 
